@@ -1,2 +1,25 @@
-LOFAR-Long Baseline Memo Series
+LOFAR-Long Baseline Memo Series Index
+
+1  The Survey test field  NJ  2018.05.05
+2  Delay and phase transfer in the survey test field  NJ 2018.08.14
+3  Definition of a coherent station in the pipeline  NJ 
+4  How many sources can we see? NJ 
+5  Chessboard imaging SM
+6  Comparison of delay calibration methods LM 
+7  Use of EHT imager to generate models for self-calibration  LM 2018.08.10
+8  How do we determine which sources need subtracting  NJ 
+9  Images of test field sources  NJ 
+10  Tests of the sagecal subtractor  MI/NJ 2018.08.01
+11  Workplan of the overall algorithm  LM/NJ 2018.08.04
+12  Finding the delay calibrator: faster and better  LM  2018.08.22 
+13  Why does the survey data have worse S:N than LBCS?  SB 
+14  Description of loop 2 HDF5 routines  SM  2018.10.08 
+15  FACTOR on long-baseline datasets  FS/LM  2018.10.17 
+16  Loop 3  NJ  2018.11.17 
+17  & FS & 
+18  Prefactor V3 changes  LKM  2019.21.03 
+19  High-resolution flux density calibrator models  FS  2019.04.19
+20  Notes on pre-processing in AIPS  NJ  2019.04.23
+21  Clock-TEC separation parameter test  AN/KP  2019.04.24
+22  Loop 3 in Difmap  NJ  2019.05.09 
 
