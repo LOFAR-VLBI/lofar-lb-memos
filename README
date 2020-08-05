@@ -1,5 +1,9 @@
 LOFAR-Long Baseline Memo Series Index
 
+(For uniformity the memos all begin with
+\newcommand{\memohead}[3]{\clearpage\begin{centering}\mbox{}\hrulefill \vskip 50mm \mbox{}{\Huge \bf LBWG memo #1}\\ \mbox{}\vskip 40mm {\Huge \bf #2}\mbox{}\vskip 40mm{\Large #3}\\\end{centering}\vfill\hrulefill\clearpage}
+
+
 1  The Survey test field  NJ  2018.05.05
 2  Delay and phase transfer in the survey test field  NJ 2018.08.14
 3  Definition of a coherent station in the pipeline  NJ 
